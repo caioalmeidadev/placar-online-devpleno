@@ -1,0 +1,197 @@
+{
+  "matches": [
+    {
+      "id": "1",
+      "turn": 1,
+      "bids": [
+        {
+          "time": "44",
+          "half": "1",
+          "team": "FLA",
+          "subject": "QUASEEEE",
+          "description": "uhfa"
+        },
+        {
+          "time": "44",
+          "half": "1",
+          "team": "FLA",
+          "subject": "QUASEEEE",
+          "description": "uhfa"
+        },
+        {
+          "time": 43,
+          "half": 1,
+          "team": "Flamengo",
+          "subject": "Para Fora",
+          "description": "Mais uma excelente oportunidade para o Flamengo. Berrío. Mais oportunidade para o Flamengo. Berrío. Mais uma oportunidade para o Flamengo. Berrío. Mais uma excelente oportunidade para o Flamengo. Berrío."
+        },
+        {
+          "time": 42,
+          "half": 1,
+          "team": "Flamengo",
+          "subject": "Para Fora",
+          "description": "Mais uma excelente oportunidade para o Flamengo. Berrío. Mais oportunidade para o Flamengo. Berrío. Mais uma oportunidade para o Flamengo. Berrío. Mais uma excelente oportunidade para o Flamengo. Berrío."
+        },
+        {
+          "time": "45",
+          "half": "1",
+          "team": "FLA",
+          "subject": "QUASEEEE",
+          "description": "uhfa"
+        },
+        {
+          "time": "45",
+          "half": "1",
+          "team": "CAM",
+          "subject": "QUASEEEE",
+          "description": "uhfa"
+        }
+      ],
+      "team-a": {
+        "name": "Flamengo",
+        "abbr": "FLA",
+        "badge": "logo1.png",
+        "supporters": 5,
+        "score": 5,
+        "players": [
+          {
+            "name": "Alex Muralha",
+            "pos": "GOL"
+          },
+          {
+            "name": "Pará",
+            "pos": "LAD"
+          },
+          {
+            "name": "Réver",
+            "pos": "ZAD"
+          },
+          {
+            "name": "Rafael Vaz",
+            "pos": "ZAE"
+          }
+        ]
+      },
+      "team-b": {
+        "name": "Atlético-MG",
+        "abbr": "CAM",
+        "badge": "logo2.png",
+        "supporters": 4,
+        "score": 5,
+        "players": [
+          {
+            "name": "Alex Muralha",
+            "pos": "GOL"
+          },
+          {
+            "name": "Pará",
+            "pos": "LAD"
+          },
+          {
+            "name": "Réver",
+            "pos": "ZAD"
+          },
+          {
+            "name": "Rafael Vaz",
+            "pos": "ZAE"
+          }
+        ]
+      },
+      "championship": {
+        "name": "Campeonato Brasileiro",
+        "abbr": "Camp. Bras."
+      },
+      "videos": [
+        "gyCFuP3rM2w",
+        "gyCFuP3rM2w",
+        "gyCFuP3rM2w",
+        "gyCFuP3rM2w"
+      ],
+      "porcentagem": {
+        "teamA": "40",
+        "teamB": "60"
+      }
+    },
+    {
+      "id": "1",
+      "turn": 1,
+      "bids": [
+        {
+          "time": 43,
+          "half": 1,
+          "team": "Flamengo",
+          "subject": "Para Fora",
+          "description": "Mais uma excelente oportunidade para o Flamengo. Berrío. Mais oportunidade para o Flamengo. Berrío. Mais uma oportunidade para o Flamengo. Berrío. Mais uma excelente oportunidade para o Flamengo. Berrío."
+        },
+        {
+          "time": 42,
+          "half": 1,
+          "team": "Flamengo",
+          "subject": "Para Fora",
+          "description": "Mais uma excelente oportunidade para o Flamengo. Berrío. Mais oportunidade para o Flamengo. Berrío. Mais uma oportunidade para o Flamengo. Berrío. Mais uma excelente oportunidade para o Flamengo. Berrío."
+        }
+      ],
+      "team-a": {
+        "name": "Palmeiras",
+        "abbr": "PAL",
+        "badge": "logo1.png",
+        "supporters": 15,
+        "score": 2,
+        "players": [
+          {
+            "name": "Alex Muralha",
+            "pos": "GOL"
+          },
+          {
+            "name": "Pará",
+            "pos": "LAD"
+          },
+          {
+            "name": "Réver",
+            "pos": "ZAD"
+          },
+          {
+            "name": "Rafael Vaz",
+            "pos": "ZAE"
+          }
+        ]
+      },
+      "team-b": {
+        "name": "Cruzeiro-MG",
+        "abbr": "CRU",
+        "badge": "logo2.png",
+        "supporters": 10,
+        "score": 1,
+        "players": [
+          {
+            "name": "Alex Muralha",
+            "pos": "GOL"
+          },
+          {
+            "name": "Pará",
+            "pos": "LAD"
+          },
+          {
+            "name": "Réver",
+            "pos": "ZAD"
+          },
+          {
+            "name": "Rafael Vaz",
+            "pos": "ZAE"
+          }
+        ]
+      },
+      "championship": {
+        "name": "Campeonato Brasileiro",
+        "abbr": "Camp. Bras."
+      },
+      "videos": [
+        "gyCFuP3rM2w"
+      ],
+      "porcentagem": {
+        "teamA": "43",
+        "teamB": "57"
+      }
+    }
+  ]
+}
