@@ -5,18 +5,11 @@
       "turn": 1,
       "bids": [
         {
-          "time": "44",
-          "half": "1",
-          "team": "FLA",
-          "subject": "QUASEEEE",
-          "description": "uhfa"
-        },
-        {
-          "time": "44",
-          "half": "1",
-          "team": "FLA",
-          "subject": "QUASEEEE",
-          "description": "uhfa"
+          "time": 42,
+          "half": 1,
+          "team": "Flamengo",
+          "subject": "Para Fora",
+          "description": "Mais uma excelente oportunidade para o Flamengo. Berrío. Mais oportunidade para o Flamengo. Berrío. Mais uma oportunidade para o Flamengo. Berrío. Mais uma excelente oportunidade para o Flamengo. Berrío."
         },
         {
           "time": 43,
@@ -26,11 +19,18 @@
           "description": "Mais uma excelente oportunidade para o Flamengo. Berrío. Mais oportunidade para o Flamengo. Berrío. Mais uma oportunidade para o Flamengo. Berrío. Mais uma excelente oportunidade para o Flamengo. Berrío."
         },
         {
-          "time": 42,
-          "half": 1,
-          "team": "Flamengo",
-          "subject": "Para Fora",
-          "description": "Mais uma excelente oportunidade para o Flamengo. Berrío. Mais oportunidade para o Flamengo. Berrío. Mais uma oportunidade para o Flamengo. Berrío. Mais uma excelente oportunidade para o Flamengo. Berrío."
+          "time": "44",
+          "half": "1",
+          "team": "FLA",
+          "subject": "QUASEEEE",
+          "description": "uhfa"
+        },
+        {
+          "time": "44",
+          "half": "1",
+          "team": "FLA",
+          "subject": "QUASEEEE",
+          "description": "uhfa"
         },
         {
           "time": "45",
@@ -51,8 +51,8 @@
         "name": "Flamengo",
         "abbr": "FLA",
         "badge": "logo1.png",
-        "supporters": 5,
-        "score": 5,
+        "supporters": 76,
+        "score": 4,
         "players": [
           {
             "name": "Alex Muralha",
@@ -76,8 +76,8 @@
         "name": "Atlético-MG",
         "abbr": "CAM",
         "badge": "logo2.png",
-        "supporters": 4,
-        "score": 5,
+        "supporters": 107,
+        "score": 4,
         "players": [
           {
             "name": "Alex Muralha",
@@ -108,8 +108,8 @@
         "gyCFuP3rM2w"
       ],
       "porcentagem": {
-        "teamA": "40",
-        "teamB": "60"
+        "teamA": "52",
+        "teamB": "48"
       }
     },
     {
